@@ -33,6 +33,11 @@ The Service Provider is not responsible for:
 *   Your device running out of battery.
 *   Losses due to reliance on third-party information within the Application (though we strive for accuracy).
 
+**Learning Content**
+
+*   Solo Learning is a learning aid. Vocabulary meanings, translations (some of which are machine-generated drafts) and pronunciation recordings (generated with text-to-speech) may contain mistakes. They are provided as-is, and no particular result, such as passing an exam, is promised.
+*   The Application includes third-party content, such as quotes from the ZenQuotes service and licensed art, music and sound effects. These remain the property of their owners and are credited on the support page.
+
 **Updates & Termination**
 
 *   The Service Provider may update or terminate the Application at any time.
@@ -43,7 +48,7 @@ The Service Provider is not responsible for:
 
 The Service Provider may update these Terms & Conditions. Check this page regularly.
 
-These terms are effective as of 2025-02-04
+These terms are effective as of 2026-10-23 (first published 2025-02-04)
 
 **Contact Us**
 
